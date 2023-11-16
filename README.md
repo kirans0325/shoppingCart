@@ -2,7 +2,6 @@
 
 This is a template for creating a shopping cart
 ![Cart Demo](demo/screenSnap.png)
-![Cart Demo](demo/cartVideo.mp4)
 
 ## How it works
 
@@ -16,3 +15,7 @@ Can run the application in VS Code or a terminal and it will be available at `ht
 npm install
 npm run dev
 ```
+
+## DemoLink
+
+https://shopping-cart-prj.vercel.app/
